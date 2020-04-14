@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">猫萌小助手</string>
+    <string name="btn_konosuna_read">读取存档文件</string>
+    <string name="btn_konosuna_upload">上传存档文件</string>
+    <string name="btn_konosuna_pull">拉取存档文件</string>
+    <string name="btn_konosuna_delete">删除存档文件</string>
+</resources>
